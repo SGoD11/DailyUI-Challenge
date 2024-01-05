@@ -1,0 +1,39 @@
+*{
+    background-color: inherit;
+    margin: 0;padding: 0;
+    
+}
+body{
+    display: flex;
+    background-color: inherit;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: url(images/Untitled.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-row: 45% 90%;
+    width: 100vw;
+    gap: 1rem;
+}
+.header{
+    grid-column: span 2;
+}
+.left{
+    
+}
+.right{
+
+}
+.buttons{
+    display: flex;
+    float: right;
+}
+.credit-image{
+    border-radius: 1rem;
+}

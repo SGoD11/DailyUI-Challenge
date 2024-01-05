@@ -1,0 +1,366 @@
+/*
+	@name iphone_14___15_pro_max___3
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 428px; width: 428px; height: 926px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__iphone_14___15_pro_max___3 {
+	top: -1px;
+	left: -1px;
+	width: 428px;
+	height: 926px;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+	border: 1px solid #000000;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:#;
+	background: -webkit-linear-gradient(-180deg , rgba(0,0,0,1) 29%, rgba(255,0,0,0) 100%);
+	background: -o-linear-gradient(-180deg , rgba(0,0,0,1) 29%, rgba(255,0,0,0) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(0,0,0,1) 29%, rgba(255,0,0,0) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(0,0,0,1) 29%, rgba(255,0,0,0) 100%);
+	background: linear-gradient(-180deg , rgba(0,0,0,1) 29%, rgba(255,0,0,0) 100%);
+}
+
+
+#payment_method {
+	top: 40px;
+	left: 76px;
+	width: 310px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#DACBCB;
+}
+
+
+#rectangle_1 {
+	top: 108px;
+	left: 39px;
+	width: 350px;
+	height: 200px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-180deg , rgba(255,68.64,68.64,1) 0%, rgba(20.33,4.89,115.16,0.98) 100%);
+	background: -o-linear-gradient(-180deg , rgba(255,68.64,68.64,1) 0%, rgba(20.33,4.89,115.16,0.98) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(255,68.64,68.64,1) 0%, rgba(20.33,4.89,115.16,0.98) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(255,68.64,68.64,1) 0%, rgba(20.33,4.89,115.16,0.98) 100%);
+	background: linear-gradient(-180deg , rgba(255,68.64,68.64,1) 0%, rgba(20.33,4.89,115.16,0.98) 100%);
+}
+
+
+#rectangle_2 {
+	top: 108px;
+	left: 39px;
+	width: 350px;
+	height: 200px;
+}
+
+
+#rectangle_3 {
+	top: 378px;
+	left: 39px;
+	width: 350px;
+	height: 50px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(255,253.3,253.3,1);
+}
+
+
+#enter_card_number {
+	top: 339px;
+	left: 42px;
+	width: 350.6px;
+	height: 43.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#DACCCC;
+}
+
+
+#____________________ {
+	top: 393px;
+	left: 64px;
+	width: 347.6px;
+	height: 23.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#797979;
+}
+
+
+#rectangle_6 {
+	top: 486px;
+	left: 42px;
+	width: 350px;
+	height: 50px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(255,253.3,253.3,1);
+}
+
+
+#card_holder_name {
+	top: 447px;
+	left: 45px;
+	width: 350.6px;
+	height: 43.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#DACCCC;
+}
+
+
+#enter_name {
+	top: 501px;
+	left: 67px;
+	width: 350px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#797979;
+}
+
+
+#rectangle_4 {
+	top: 594px;
+	left: 45px;
+	width: 119px;
+	height: 50px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(255,253.3,253.3,1);
+}
+
+
+#expiry_date {
+	top: 555px;
+	left: 47px;
+	width: 135.6px;
+	height: 43.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#DACCCC;
+}
+
+
+#rectangle_5 {
+	top: 594px;
+	left: 272px;
+	width: 119px;
+	height: 50px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(255,253.3,253.3,1);
+}
+
+
+#cvv {
+	top: 555px;
+	left: 274px;
+	width: 135.6px;
+	height: 43.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mm_yy {
+	top: 609px;
+	left: 65px;
+	width: 89.6px;
+	height: 30.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#797979;
+}
+
+
+#____ {
+	top: 604px;
+	left: 284px;
+	width: 114.6px;
+	height: 35.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#636363;
+}
+
+
+#rectangle_7 {
+	top: 671px;
+	left: 45px;
+	width: 350px;
+	height: 71px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(141.52,146.32,189.54,1);
+}
+
+
+#other_payment_methods {
+	top: 690px;
+	left: 81px;
+	width: 303.4px;
+	height: 40.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ellipse_1 {
+	top: 768px;
+	left: 40px;
+	width: 62px;
+	height: 58px;
+	-ms-border-radius: 31px / 29px;
+	-o-border-radius: 31px / 29px;
+	-moz-border-radius: 31px / 29px;
+	-webkit-border-radius: 31px / 29px;
+	border-radius: 31px / 29px;
+	background:rgba(217,217,217,1);
+}
+
+
+#ellipse_2 {
+	top: 768px;
+	left: 114px;
+	width: 62px;
+	height: 58px;
+	-ms-border-radius: 31px / 29px;
+	-o-border-radius: 31px / 29px;
+	-moz-border-radius: 31px / 29px;
+	-webkit-border-radius: 31px / 29px;
+	border-radius: 31px / 29px;
+	background:rgba(217,217,217,1);
+}
+
+
+#ellipse_3 {
+	top: 768px;
+	left: 188px;
+	width: 62px;
+	height: 58px;
+	-ms-border-radius: 31px / 29px;
+	-o-border-radius: 31px / 29px;
+	-moz-border-radius: 31px / 29px;
+	-webkit-border-radius: 31px / 29px;
+	border-radius: 31px / 29px;
+	background:rgba(217,217,217,1);
+}
+
+
+#ellipse_4 {
+	top: 768px;
+	left: 262px;
+	width: 62px;
+	height: 58px;
+	-ms-border-radius: 31px / 29px;
+	-o-border-radius: 31px / 29px;
+	-moz-border-radius: 31px / 29px;
+	-webkit-border-radius: 31px / 29px;
+	border-radius: 31px / 29px;
+	background:rgba(217,217,217,1);
+}
+
+
+#ellipse_5 {
+	top: 768px;
+	left: 336px;
+	width: 62px;
+	height: 58px;
+	-ms-border-radius: 31px / 29px;
+	-o-border-radius: 31px / 29px;
+	-moz-border-radius: 31px / 29px;
+	-webkit-border-radius: 31px / 29px;
+	border-radius: 31px / 29px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_8 {
+	top: 846px;
+	left: 39px;
+	width: 359px;
+	height: 64px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(11.06,20.51,103.69,1);
+}
+
+
+#proceed_payment {
+	top: 861px;
+	left: 110px;
+	width: 323.4px;
+	height: 40.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */

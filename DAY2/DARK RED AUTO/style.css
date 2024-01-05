@@ -1,0 +1,283 @@
+.i-phone-14-15-pro-max-3,
+.i-phone-14-15-pro-max-3 * {
+  box-sizing: border-box;
+}
+.i-phone-14-15-pro-max-3 {
+  background: linear-gradient(
+      to left,
+      rgba(255, 0, 0, 0.25),
+      rgba(255, 0, 0, 0.25)
+    ),
+    linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(255, 0, 0, 0) 100%);
+  border-radius: 40px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 428px;
+  height: 926px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.payment-method {
+  color: #dacccc;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 138px);
+  top: 40px;
+  width: 287px;
+  height: 41px;
+}
+.rectangle-1 {
+  background: linear-gradient(
+      180deg,
+      rgba(255, 69, 69, 1) 0%,
+      rgba(20, 5, 115, 0.98) 100%
+    ),
+    linear-gradient(
+      180deg,
+      rgba(255, 69, 69, 1) 0%,
+      rgba(20, 5, 115, 0.98) 100%
+    );
+  border-radius: 20px;
+  width: 350px;
+  height: 200px;
+  position: absolute;
+  left: calc(50% - 175px);
+  top: 108px;
+}
+.rectangle-2 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 69, 69, 1) 0%,
+    rgba(20, 5, 115, 0.98) 100%
+  );
+  border-radius: 20px;
+  width: 350px;
+  height: 200px;
+  position: absolute;
+  left: calc(50% - 175px);
+  top: 108px;
+}
+.rectangle-3 {
+  background: #fffdfd;
+  border-radius: 10px;
+  width: 350px;
+  height: 50px;
+  position: absolute;
+  left: calc(50% - 175px);
+  top: 378px;
+}
+.enter-card-number {
+  color: #dacccc;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 42px;
+  top: 339px;
+  width: 336px;
+  height: 39px;
+}
+.div {
+  color: #797979;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 150px);
+  top: 393px;
+  width: 333px;
+  height: 19px;
+}
+.rectangle-6 {
+  background: #fffdfd;
+  border-radius: 10px;
+  width: 350px;
+  height: 50px;
+  position: absolute;
+  left: calc(50% - 172px);
+  top: 486px;
+}
+.card-holder-name {
+  color: #dacccc;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 45px;
+  top: 447px;
+  width: 336px;
+  height: 39px;
+}
+.enter-name {
+  color: #797979;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 147px);
+  top: 501px;
+  width: 333px;
+  height: 27px;
+}
+.rectangle-4 {
+  background: #fffdfd;
+  border-radius: 10px;
+  width: 119px;
+  height: 50px;
+  position: absolute;
+  left: calc(50% - 169px);
+  top: 594px;
+}
+.expiry-date {
+  color: #dacccc;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 47px;
+  top: 555px;
+  width: 121px;
+  height: 39px;
+}
+.rectangle-5 {
+  background: #fffdfd;
+  border-radius: 10px;
+  width: 119px;
+  height: 50px;
+  position: absolute;
+  left: calc(50% - -58px);
+  top: 594px;
+}
+.cvv {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 274px;
+  top: 555px;
+  width: 121px;
+  height: 39px;
+}
+.mm-yy {
+  color: #797979;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 149px);
+  top: 609px;
+  width: 75px;
+  height: 26px;
+}
+.div2 {
+  color: #636363;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 284px;
+  top: 604px;
+  width: 100px;
+  height: 31px;
+}
+.rectangle-7 {
+  background: #8e92be;
+  border-radius: 50px;
+  width: 350px;
+  height: 71px;
+  position: absolute;
+  left: 45px;
+  top: 671px;
+}
+.other-payment-methods {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 81px;
+  top: 690px;
+  width: 284px;
+  height: 33px;
+}
+.ellipse-1 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 62px;
+  height: 58px;
+  position: absolute;
+  left: 40px;
+  top: 768px;
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 62px;
+  height: 58px;
+  position: absolute;
+  left: 114px;
+  top: 768px;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 62px;
+  height: 58px;
+  position: absolute;
+  left: 188px;
+  top: 768px;
+}
+.ellipse-4 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 62px;
+  height: 58px;
+  position: absolute;
+  left: 262px;
+  top: 768px;
+}
+.ellipse-5 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 62px;
+  height: 58px;
+  position: absolute;
+  left: 336px;
+  top: 768px;
+}
+.rectangle-8 {
+  background: #0b1568;
+  border-radius: 50px;
+  width: 359px;
+  height: 64px;
+  position: absolute;
+  left: 39px;
+  top: 846px;
+}
+.proceed-payment {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 110px;
+  top: 861px;
+  width: 304px;
+  height: 33px;
+}
