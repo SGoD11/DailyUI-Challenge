@@ -4,4 +4,4 @@ remember:
 all the files must me in the same directory to work properly
 ***other created through figma so no woories**
 ***Some other created Using Adobe XD***
-**Adobe XD files are Exported to images so you can see it directly so no worries**
+**Adobe XD files are Exported to images so you can see it directly so no worries **
